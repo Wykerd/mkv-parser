@@ -1,2 +1,3 @@
-# mkv-parser
-Lightweight matroska &amp; webm file parser in C
+# Micro EBML
+A very small, complete and spesification compliant EBML Reader implementation in C99.
+

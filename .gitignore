@@ -1,0 +1,10 @@
+tmp/
+build/
+.vscode/
+*.a
+*.so
+*.dylib
+*.lib
+*.dll
+*.mkv
+*.webm
